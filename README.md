@@ -1,1 +1,1 @@
-# Customer-Purchase-Behavior-Analysis
+# Customer Purchase Behavior Analysis
